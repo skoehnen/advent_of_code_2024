@@ -1,0 +1,3 @@
+[submodule "advent_of_code_2024_day_01"]
+	path = advent_of_code_2024_day_01
+	url = github:skoehnen/advent_of_code_2024_day_01.git
